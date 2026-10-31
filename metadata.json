@@ -1,0 +1,6 @@
+{
+  "name": "Microbiome Data Quality Checker (Microbiome QC)",
+  "description": "Scientific data validation platform and R package for microbiome metadata, taxonomy verification via NCBI, microbial signatures, and reproducible QC reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
